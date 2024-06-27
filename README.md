@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Recipe Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Interactive mobilely as well. Used REACT and MUI to create a food blog social media website 
+where users can interact with other users for recipes and inspos!
 
 ## Available Scripts
 
